@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"frontMatter.content.fmHighlight": true,
+		"[markdown]": {
+		},
+		"frontMatter.dashboard.openOnStart": true,
+		"frontMatter.preview.host": "http://localhost:1313/post/",
+		"frontMatter.site.baseURL": "http://llsaboya.com/",
+		"explorer.copyRelativePathSeparator": "/"
+	}
+}

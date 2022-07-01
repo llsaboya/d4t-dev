@@ -1,0 +1,107 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo-d4t.png"
+# use `x` with logo_width, example: "100x".
+# Note: logo_width is not work with .svg file
+logo_width = "150x"
+# logo text will only show when logo is missing.
+logo_text = "Lefebvre de Saboya"
+# navbar fixed to top
+navbar_fixed = false
+# OpenGraph / Twitter Card metadata
+description = "Design 4 Thinking | Design Instrucional"
+author = "Lefebvre de Saboya"
+image = "images/1-joker.jpg" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "Rua Lopo Gonçalves 487 - Porto Alegre - RS"
+mobile = "+211234565523"
+email = "hello@llsaboya.com"
+# contact form action
+contact_form_action = "https://formspree.io/f/xgerqrpl" # contact form works with https://formspree.io
+# search
+search = true
+
+# featured post title
+featured_post_title = "Projetos"
+recent_post_title = "Blog"
+mainSections = ["blog"]
+# about widget content
+about_widget_content = "Aprendizado com om história, emoção e propósito: os benefícios são maiores do que você pensa"
+# footer content
+footer_content = "Aprendizado com om história, emoção e propósito."
+# copyright
+copyright = "Todos os direitos reservados. © 2022"
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= ""
+
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Banner
+[banner]
+enable = true
+title_large = "Design **4** Thinking"
+title_small = "Instructional Design"
+image = "images/hero-image.png"
+background_image = "/images/banner-bg-shape.svg"
+content = "Com o Design Instrucional você desenvolve suas equipes usando o conhecimento e o know-how da sua empresa através da inovação e tecnologia"
+button_label = "Saiba Mais"
+button_link = "about/"
+
+# Advertise
+[advertisement]
+image = "images/promocao-livros.jpg"
+link = "https://www.amazon.com.br/Lefebvre-Saboya/e/B09QXVYBSH/"
+
+# cookies
+[cookies]
+enable = true
+expire_days = 2
+content = "Esse site tem cookies, aqueles de internet. Podemos usar?"
+button = "Sim"
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["about", "newsletter", "categories", "recent-post"]
+# available widget : about,categories,newsletter,recent-post
+
+
+# Subscription
+[subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://llsaboya.us5.list-manage.com/subscribe/post?u=0eb25b5faea7bfff8901c24b8&amp;id=e68b9cc1e0" # replace this url with yours
+mailchimp_form_name = "b_0eb25b5faea7bfff8901c24b8_e68b9cc1e0" # replace this code with yours
+
+
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/lsaboya"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/llsaboya"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.instagram.com/llsaboya/"
+
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/channel/UCrUYEofsuTPiNSsq9S9W0HA"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/in/llsaboya/"

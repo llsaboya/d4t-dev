@@ -1,0 +1,62 @@
+############# English navigation ##############
+
+# main menu
+# [[main]]
+# name = "Home"
+# url = ""
+# weight = 1
+
+[[main]]
+name = "Sobre"
+url = "about/"
+weight = 1
+
+[[main]]
+name = "Design Instrucional"
+url = "blog/o-que-e-design-instrucional-ou-intructional-design/"
+weight = 2
+
+[[main]]
+name = "Contato"
+url = "contact/"
+weight = 3
+
+[[main]]
+name = "Arquivo"
+url = "#"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  parent = "Arquivo"
+  name = "Tags"
+  url = "tags/"
+  weight = 1
+
+  [[main]]
+  parent = "Arquivo"
+  name = "Assuntos"
+  url = "categories/"
+  weight = 2
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Sobre"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Contato"
+url = "contact/"
+weight = 3
+
+#[[footer]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
+#weight = 4
