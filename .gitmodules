@@ -1,3 +1,6 @@
 [submodule "themes/apsho"]
 	path = themes/apsho
 	url = https://github.com/llsaboya/apsho.git
+[submodule "themes/brevesnotas-geeky-hugo"]
+	path = themes/brevesnotas-geeky-hugo
+	url = https://github.com/llsaboya/brevesnotas-geeky-hugo.git
