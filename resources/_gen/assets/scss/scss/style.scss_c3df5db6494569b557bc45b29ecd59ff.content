@@ -6903,6 +6903,15 @@ select {
 .title-linked {
   color: #3c4041; }
 
+.subtitle-portifolio {
+  background-color: #f0ece6;
+  border-radius: 5px;
+  padding: 30px 30px;
+  margin: 3em 0;
+  font-size: 20px; }
+  @media (max-width: 767px) {
+    .subtitle-portifolio {
+      padding: 30px 30px; } }
 .content {
   margin-bottom: 3em; }
   .content h1, .content .h1, .content h2, .content .h2, .content h3, .content .h3, .content h4, .content .h4, .content h5, .content .h5, .content h6, .content .h6 {

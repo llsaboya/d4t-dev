@@ -1,12 +1,12 @@
-baseURL = 'http://llsaboya.com/'
+baseURL = 'https://d4t.dev/'
 languageCode = 'pt-br'
 title = 'Lefebvre saboya'
 rssLimit = 20
 copyright = "2022 Lefebvre Saboya All rights reserved"
 
 [author]
-	name = "Lefebvre Saboya"
-	email = "hello@llsaboya.com"
+	name = "Design 4 Thinking"
+	email = "hello@d4t.dev"
 # This file is for render site varibles and plugins
 # don't remove this file.
 # The presence of this file is for compatibility with Blogdown and Forestry.

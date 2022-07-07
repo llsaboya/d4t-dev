@@ -10,7 +10,7 @@
 		},
 		"frontMatter.dashboard.openOnStart": true,
 		"frontMatter.preview.host": "http://localhost:1313/post/",
-		"frontMatter.site.baseURL": "http://llsaboya.com/",
+		"frontMatter.site.baseURL": "http://d4t.dev",
 		"explorer.copyRelativePathSeparator": "/"
 	}
 }

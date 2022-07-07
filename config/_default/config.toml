@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://llsaboya.com/"
+baseURL = "https://d4t.dev/"
 title = "Design 4 Thinking | Design Instrucional"
 theme = "brevesnotas-geeky-hugo"
 languageName = "Pt"

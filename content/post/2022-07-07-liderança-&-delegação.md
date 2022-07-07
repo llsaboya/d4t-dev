@@ -1,9 +1,17 @@
 ---
-title: "Sobre a D4T"
-description: "Design 4 Thinking"
-image: "images/d4t-linkedin-banner.png"
-layout: "about"
-draft: false
+title: Liderança e Delegação
+description: Um curso para liderança e delegação nos projetos da sua empresa.
+date: 2022-07-07T14:20:33.293Z
+image: images/1-design.jpg
+tags:
+  - Curso
+  - Design Instrucional
+  - Delegação
+categories:
+  - Portifólio
+slug: lideranca-delegacao
+type: featured
+layout: portifolio
 
 # education
 education:
@@ -34,11 +42,7 @@ experience:
     - Best Article
     - Best New Newel
     - Best Book
-
+draft: true
 ---
-
-Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
-
-Quando não estou resolvendo os tais "problemas", eu escrevo.
-
-Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@d4t.dev](mailto:hello@d4t.dev) e conversamos sobre qualquer assunto.
+ 
+Com o Design Instrucional você desenvolve suas equipes usando o conhecimento e o know-how da sua empresa através da inovação e tecnologia
