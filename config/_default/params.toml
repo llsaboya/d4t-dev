@@ -13,20 +13,20 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Design 4 Thinking | Design Instrucional"
 author = "Lefebvre de Saboya"
-image = "images/1-joker.jpg" # this image will be used as fallback if a page has no image of its own
+image = "images/1-design.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Rua Lopo Gonçalves 487 - Porto Alegre - RS"
 mobile = "+211234565523"
 email = "hello@llsaboya.com"
 # contact form action
-contact_form_action = "https://formspree.io/f/xgerqrpl" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xayvgndj" # contact form works with https://formspree.io
 # search
 search = true
 
 # featured post title
 featured_post_title = "Projetos"
-recent_post_title = "Blog"
-mainSections = ["blog"]
+recent_post_title = "Artigos"
+mainSections = ["post"]
 # about widget content
 about_widget_content = "Aprendizado com om história, emoção e propósito: os benefícios são maiores do que você pensa"
 # footer content
@@ -84,17 +84,17 @@ mailchimp_form_name = "b_0eb25b5faea7bfff8901c24b8_e68b9cc1e0" # replace this co
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/lsaboya"
+link = "https://www.facebook.com/d4t.dev"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/llsaboya"
+#[[social]]
+#title = "twitter"
+#icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+#link = "https://twitter.com/llsaboya"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.instagram.com/llsaboya/"
+#[[social]]
+#title = "instagram"
+#icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "https://www.instagram.com/llsaboya/"
 
 [[social]]
 title = "youtube"
@@ -104,4 +104,4 @@ link = "https://www.youtube.com/channel/UCrUYEofsuTPiNSsq9S9W0HA"
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/in/llsaboya/"
+link = "https://www.linkedin.com/company/d4t-dev/"
