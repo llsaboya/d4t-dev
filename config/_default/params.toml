@@ -24,7 +24,7 @@ contact_form_action = "https://formspree.io/f/xayvgndj" # contact form works wit
 search = true
 
 # featured post title
-featured_post_title = "Portifólio"
+featured_post_title = "Portfólio"
 recent_post_title = "Artigos"
 mainSections = ["post"]
 # about widget content
