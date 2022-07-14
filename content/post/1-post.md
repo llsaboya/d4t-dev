@@ -13,9 +13,40 @@ slug: world
 
 {{< image title="Titulo da imagem" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="texto alt" >}}
 
+
+
+
+{{< image src="images/post/post-1.png" caption="Image Caption" alt="alter-text" h="100" w="200" p="right" command="fit" option="q10 r90" class="img-fluid" title="Image Title" webp="true" >}}
+
+- src is the source of the image. You can use a local image [assets/static/content] or an external image.
+- caption is the caption of the image. When you put a caption, then the image will wrap in a figure element.
+- alt is the alter text for the image. It helps to describe the image.
+- height can specify the height of the image.
+- width can specify the width of the image.
+- position can be set to left, right, center, float-left, float-right.
+- command can be used to implements the Resize, Fit, or Fill. Learn more about commands here
+- option can specify the image options like background color, quality, hint, rotate, anchor, and resample filter. Learn more about options here
+- class can add classes to the image. If you need to add any classes, then you can use the class attribute.
+- title can add a title attribute to the image.
+- webp can be set to true or false (default is true). If false it will not convert image into webp format.
+
 Teste
 
 <a href="/portifolio/demo-delegacao/story.html" class="btn btn-sm btn-outline-primary btn-lg me-2 mb-lg-3 mb-xl-0 active" target="_blank">Experimente o projeto completo</a>
+
+{{< button "click-me" "https://examplesite.com/" >}}
+
+{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+
+{{< gist johndoe 12345 >}}
+
+{{< youtube w7Ft2ymGmfc >}}
+
+{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
+
+{{< vimeo 146022717 >}}
+
+
 
 #### Heading example
 

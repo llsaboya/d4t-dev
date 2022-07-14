@@ -2,15 +2,14 @@
 authors:
   - Lefebvre Saboya
 title: Como trabalhar melhor em Home Office
-description: Dicas e truques de como implementar o Home Office no seu Workflow de trabalho durante a pandemia.
+description: Dicas e truques de como implementar o Home Office no seu Workflow de trabalho
+  durante a pandemia.
 categories:
-  - Instructional Design
-  - Empresarial
+  - Para Designers
 tags:
-  - image
-  - Post Formats
+  - Home Office
 image: images/standsome-worklifestyle-wZJUt5mCbR0-unsplash.jpg
-date: '2021-02-23T18:43:45.000Z'
+date: 2021-02-23T18:43:45.000Z
 ---
 
 Trabalhar de casa pode ser um inferno. O escritório oferece uma estruturação clara dos papéis desempenhados por você. Ainda inconsciente, sabemos quando, onde e como gerenciar e se comportar no nosso trabalho. Já em *home office*, os desafios mudam. Quem é *\"viciado\"* na vida corporativa pode enlouquecer com a falta de estrutura de suporte que você **não vai encontrar em casa**.

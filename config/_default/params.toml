@@ -52,7 +52,7 @@ image = "images/hero-image.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Com o Design Instrucional você desenvolve suas equipes usando o conhecimento e o know-how da sua empresa através da inovação e tecnologia"
 button_label = "Saiba Mais"
-button_link = "about/"
+button_link = "post/o-que-e-design-instrucional-ou-instructional-design/"
 
 # Advertise
 [advertisement]

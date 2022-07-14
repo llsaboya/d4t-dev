@@ -8,37 +8,48 @@ draft: false
 # education
 education:
   enable: true
-  title: Formal Education
+  title: Formação acadêmica
   education_list:
-    - name: Southeast University
-      content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-    - name: Northeast University
-      content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-    - name: Easteast University
-      content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
-    - name: Southeast University
-      content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+    - name: Universidade Luterana do Brasil
+      content: Processos Gerenciais
+    - name: Senac Brasil
+      content: Pós-graduação Design Instrucional
 
 # experience
 experience:
   enable: true
-  title: Work Experience
+  title: Licenças e certificados
   experience_list:
-    - Best Writer Award
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best New Newel
-    - Best Book
-    - Best Article
-    - Best New Newel
-    - Best Book
+    - Agile Instructional Design
+    - Instructional Design - Working with SMEs
+    - Instructional Design - Needs Analysis
+    - Instructional Design - Models of ID
+    - Instructional Design - Adult Learners
+    - Instructional Design - Creating Video Training
+    - Measuring Learning Effectiveness
+    - Elearning Storyboarding
+    - Falconi - Solução de Problemas
+    - Dale Carnegie Training
+
 
 ---
 
-Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
+O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição _e_ aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação de necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia. 
 
-Quando não estou resolvendo os tais "problemas", eu escrevo.
+O **Design 4 Thinking** existe para apoiar empresas, empresários, alunos, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizagem mais eficazes combinando a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona. 
 
-Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@d4t.dev](mailto:hello@d4t.dev) e conversamos sobre qualquer assunto.
+### Quem comanda esse projeto 
+
+Meu nome é Lefebvre Saboya. Sou formado em Processos Gerenciais e pós-graduando em Design Instrucional. Comecei a ensinar na monitoria do meu curso pré-vestibular para pagar meus estudos. Trabalhei com publicidade e marketing fazendo *avaliação crítica* para diversas campanhas. Durante 5 anos trabalhei no Banco do Estado do Rio Grande do Sul (Banrisul) realizando "Análise 360" das agências da rede de atendimento.  
+
+O processo é simples. Usando o processo ADDIE e *Values Clarification*, para analisar as lacunas de conhecimentos e habilidades dentro de um grupo específico. Com a ajuda de Especialistas em Assuntos (SMEs), desenvolvo um plano que atenda às necessidades da organização criando experiências que desenvolvam a atitudes reflexivas e prática diante de situações problemáticas. 
+
+Na medida em que o mundo dos negócios continua a mudar, as organizações e suas escolhas de aprendizagem mudam também. Ao iniciar um projeto eu desenvolvo a tarefa de identificar essas necessidades e descobrir a melhor forma de desafiar a capacidade dos profissionais em estabelecer relações e se tornarem capazes de ver mais de uma maneira de atingir os resultados. 
+
+O principal desafio de qualquer projeto de Design Instrucional é desenvolver uma equipe profissional que entregue o processo de aprendizagem certo. É por isso que trabalhamos com *Especialistas no Assunto* (SMEs) para criar fundações sólidas pra o projeto, desde design gráfico, passando pela experiência de usuário (UX) e qualquer objetivo específico que seja particular na área de atuação da sua organização. 
+
+### Saiba Mais 
+
+Se tiver qualquer pergunta basta [entrar em contato](https://d4t.dev/contact/) para conversarmos. Enquanto isso, se você se interessar, descubra um pouco mais sobre o Design Instrucional com os links abaixo. 
+
+- [O que é Design Instrucional](https://d4t.dev/post/o-que-e-design-instrucional-ou-instructional-design/)

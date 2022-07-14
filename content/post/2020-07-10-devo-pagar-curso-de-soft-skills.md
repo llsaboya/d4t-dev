@@ -2,17 +2,17 @@
 title: Devo pagar por cursos de Soft Skills?
 description: Você não desenvolve Soft Skills sozinho. Busque ajuda agora!
 categories:
-  - Empresarial
+  - Para Designers
+  - Análises
 tags:
   - Soft skills
   - Hard skills
   - Auto-ajuda
 image: images/1-design.jpg
 authors:
-- Lefebvre Saboya
-type: "regular" # available types: [featured/regular]
-date: '2020-07-12T18:19:25+06:00'
-
+  - Lefebvre Saboya
+type: regular
+date: 2020-07-12T18:19:25+06:00
 ---
 
 ![Só falta inventarem medir isso](/images/soft-skills-nederlia.png "Só falta inventarem medir isso")

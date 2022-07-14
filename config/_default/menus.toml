@@ -12,13 +12,13 @@ url = "about/"
 weight = 1
 
 [[main]]
-name = "Design Instrucional"
-url = "post/o-que-e-design-instrucional-ou-intructional-design/"
+name = "Portifólio"
+url = "categories/portifólio"
 weight = 2
 
 [[main]]
 name = "Contato"
-url = "contact/"
+url = "contato/"
 weight = 3
 
 [[main]]
