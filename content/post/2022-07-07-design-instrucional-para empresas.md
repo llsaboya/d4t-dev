@@ -24,7 +24,7 @@ education:
     - name: Responsabilidades
       content: Análise de necessidades, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
     - name: Níveis de Interatividade
-      content: <b>Nível 2</b> - Inclui síntese e avaliação. Trabalha habilidades de resolução de problemas e tomada de decisão.
+      content: <b>Nível 1</b> - Cliques em interatividades, que carregam o conteúdo ou navegam através de slides para conhecimento e compreensão.
 
 # experience
 experience:
