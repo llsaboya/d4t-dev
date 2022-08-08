@@ -1,29 +1,50 @@
 ---
 title: Liderança e Delegação
-description: Experiência de eLearning baseada em cenários para desenvolver habilidade na delegação através de um desafio.
+description: Experiência de eLearning baseada em cenários desenvolvida para praticar a habilidade na delegação.
 date: 2022-07-07T14:20:33.293Z
-image: images/post/portfolio/slide-titulo.jpg
+image: images/post/portfolio/slide-titulo.png
 tags:
   - Curso
   - Design Instrucional
   - Delegação
+  - Articulate Storyline
 categories:
   - Portifólio
 slug: lideranca-delegacao
 type: featured
+layout: "portifolio"
+
+# education
+education:
+  enable: true
+  title: Informações técnicas
+  education_list:
+    - name: Público
+      content: Lideranças com poder decisório como diretores, gerentes e supervisores.
+    - name: Responsabilidades
+      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
+    - name: Níveis de Interatividade 
+      content: <b>Nível 1</b> - Cliques em interatividades, que carregam o conteúdo ou navegam através de slides para conhecimento e compreensão.
+
+# experience
+experience:
+  enable: true
+  title: Ferramentas utilizadas
+  experience_list:
+    - Articulate Storyline
+    - Powerpoint
+    - Scrivener
+    - Outliner
 ---
 
-Esse cenário testa a capacidade das lideranças em identificar na equipe colegas com potencial para promoção e a habilidade na delegação de responsabilidades. Esse projeto foi criado com abordagens reais para uma empresa fictícia.  
+Esse cenário testa a capacidade das lideranças em identificar na equipe colegas com potencial para promoção e a habilidade na delegação de responsabilidades. Esse projeto foi criado com abordagens reais de liderança e delegação para uma empresa fictícia.  
 
-- **Público**: Lideranças com poder decisório como diretores, gerentes e supervisores. 
-- **Responsabilidades**: Análise de necessidades, design instrucional, eLearning design. 
-- **Ferramentas usadas**: Articulate Storyline, Powerpoint, Scrivener, Outliner. 
 
 {{< button "Experimente o projeto completo" "/portifolio/demo-delegacao/story.html" >}}
 
 ## Visão geral 
 
-No mundo corporativo, delegar é uma necessidade para a gestão e crescimento da empresa. Entretanto, é comum o conceito de *delegação* ainda se confundir com a *distribuição de tarefas* e, nos piores casos, é apenas a transferências de tarefas que *a liderança não gosta de fazer*. 
+Nas empresas, delegar é uma necessidade para a gestão e crescimento da empresa. Entretanto, é comum o conceito de *delegação* ainda se confundir com a *distribuição de tarefas* e, nos piores casos, é apenas a transferências de tarefas que *a liderança não gosta de fazer*. 
 
 Distribuir as tarefas de acordo com cada cargo da equipe já faz parte do gerenciamento do trabalho e do tempo da equipe. O líder precisa gerenciar as tarefas que já fazem parte da descrição dos cargos da sua equipe. 
 

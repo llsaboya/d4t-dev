@@ -10,7 +10,7 @@ authors:
   - Lefebvre Saboya
 slug: modelo-de-analise-diagnostico-de-empresa
 type: featured
-date: 2021-12-11T12:19:25.000Z
+date: 2021-12-14T12:19:25.000Z
 categories:
   - Portifólio
 ---
