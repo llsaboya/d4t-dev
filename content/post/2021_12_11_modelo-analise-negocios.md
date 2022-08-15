@@ -12,7 +12,7 @@ slug: modelo-de-analise-diagnostico-de-empresa
 type: featured
 date: 2021-12-14T12:19:25.000Z
 categories:
-  - Portifólio
+  - Portifolio
 ---
 
 Sua organização está indo tão bem quanto poderia? Como você sabe? Onde e como sua organização deve melhorar ou mudar? Aprenda a analisar de forma objetiva e eficaz a sua empresa, o seu negócio e até seu departamento, não importa o tamanho deles.

@@ -1,7 +1,8 @@
 ---
 title: Liderança e Delegação
-description: Experiência de eLearning baseada em cenários desenvolvida para praticar a habilidade na delegação.
-date: 2022-07-07T14:20:33.293Z
+description: Experiência de eLearning baseada em cenários desenvolvida para praticar a
+  habilidade na delegação.
+date: 2022-08-15T23:50:15.174Z
 image: images/post/portfolio/slide-titulo.png
 tags:
   - Curso
@@ -9,10 +10,10 @@ tags:
   - Delegação
   - Articulate Storyline
 categories:
-  - Portifólio
+  - Portifolio
 slug: lideranca-delegacao
 type: featured
-layout: "portifolio"
+layout: portifolio
 
 # education
 education:
@@ -22,9 +23,11 @@ education:
     - name: Público
       content: Lideranças com poder decisório como diretores, gerentes e supervisores.
     - name: Responsabilidades
-      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
-    - name: Níveis de Interatividade 
-      content: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de resolução de problemas e tomada de decisão.
+      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de
+        conteúdo, desenvolvimento de do curso, desenvolvimento de design.
+    - name: Níveis de Interatividade
+      content: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de
+        resolução de problemas e tomada de decisão.
 
 # experience
 experience:

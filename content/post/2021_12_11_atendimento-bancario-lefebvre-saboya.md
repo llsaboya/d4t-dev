@@ -9,7 +9,7 @@ slug: livro-atendimento-bancario
 type: featured
 date: 2021-12-12T18:19:25+06:00
 categories:
-  - Portifólio
+  - Portifolio
 ---
 
           

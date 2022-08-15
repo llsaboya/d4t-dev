@@ -1,7 +1,8 @@
 ---
-title: Design Instrucional para Empresas
-description: Conheça o Design Instrucional e sua influência na gestão do conhecimento da sua empresa.
-date: 2022-07-07T14:20:33.293Z
+title: DI para Empreendedores e Empresários
+description: Interação sobre Design Instrucional para empresários e empreendedores que
+  buscam implantar essa solução nas suas empresas.
+date: 2022-08-14T23:50:34.611Z
 image: images/post/portfolio/rise-1.jpeg
 tags:
   - Curso
@@ -9,8 +10,8 @@ tags:
   - Articulate Rise 360
   - Gestão de conhecimento
 categories:
-  - Portifólio
-slug: design-instrucional-para-empresas
+  - Portifolio
+slug: di-para-empreendedores-empresarios
 type: featured
 layout: portifolio
 
@@ -20,11 +21,13 @@ education:
   title: Informações técnicas
   education_list:
     - name: Público
-      content: Lideranças com poder decisório como diretores, gerentes e supervisores.
+      content: Empreendedores e empresários.
     - name: Responsabilidades
-      content: Análise de necessidades, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
+      content: Análise de necessidades, revisão de conteúdo, desenvolvimento de do
+        curso, desenvolvimento de design.
     - name: Níveis de Interatividade
-      content: <b>Nível 1</b> - Cliques em interatividades, que carregam o conteúdo ou navegam através de slides para conhecimento e compreensão.
+      content: <b>Nível 1</b> - Cliques em interatividades, que carregam o conteúdo ou
+        navegam através de slides para conhecimento e compreensão.
 
 # experience
 experience:
@@ -38,73 +41,86 @@ experience:
 draft: true
 ---
 
-Esse cenário testa a capacidade das lideranças em identificar na equipe colegas com potencial para promoção e a habilidade na delegação de responsabilidades. Esse projeto foi criado com abordagens reais de liderança e delegação para uma empresa fictícia.  
-
-
-{{< button "Experimente o projeto completo" "/portifolio/demo-delegacao/story.html" >}}
-
 ## Visão geral 
 
+Esse projeto mostra as capacidades do **Articulate Rise 360** para materiais informativos. O desafio foi criar uma interação que explicasse o que é **Design Instrucional** para empresários e empreendedores que buscam implantar essa solução nas suas empresas.
 
+Entrevistas com empresários e empreendedores mostraram que eles achavam contraditório os profissionais de Design Instrucional utilizem abordagens tradicionais quando apresentavam sua área - infográficos, apresentações e texto - já que estes destacam sua experiência com novas metodologias e tecnologias.
+
+Empresas de design instrucional utilizam várias estratégias de marketing e vendas. Uma das principais é o *Lead Nurturing* (fazer com que a lead adquira conhecimento e interaja mais com sua marca). Mesmo que o design instrucional exista desde os anos 50, "educar o cliente" sobre as características do design instrucional, os cenários de aplicação e fronteiras de atuação ainda é o foco do mercado brasileiro.
+
+{{< button "Experimente o projeto completo" "/portifolio/di-para-empreendedores/index.html" >}}
 
 ## Processo 
 
 ### Análise de necessidades 
 
-
-
 #### 1 - Quais as mudanças que queremos para a empresa? 
 
+Os entrevistados disseram interessados na implantação do Design Instrucional. Entretanto, esses mesmos empreendedores e empresários, acostumados com processos de venda, gostariam de ver o diferencial do Design Instrucional desde o início, inclusive no primeiro contato.
 
+Um dos entrevistados resumiu da seguinte forma:
+
+> Se o Design Instrucional fosse um produto num supermercado, como seria uma "*amostra grátis*" disso?
+
+O desafio foi incluir o design instrucional no processo, principalmente na estratégia de *Lead Nurturing*, já que o objetivo dessa estratégia de marketing se assemelha com alguns objetivos de aprendizagem em experiências desenvolvidas por designers instrucionais.
 
 #### 2 - O que as pessoas precisam fazer para atingir esse objetivo? 
 
+Para atingir o objetivo de captar clientes, empresas e designers de DI utilizam diversos canais de marketing para demostrar indicadores, estratégias, habilidades e análise de dados. Aplicações práticas, estudos de casos e exemplos de desenvolvimento aparecem mais tarde no processo de *lead nurturing*, normalmente no portifólio.
 
+A idéia seria desenvolver uma experiência de aprendizagem de nível 1 de interatividade, com duas características:
 
+-  proporcionar os dois primeiros níveis de taxonomia de Bloom - conhecimento e compreensão.
+-  Nível passivo de interatividade de eLearning, com cliques em interatividades, incorporando conexões a gravações, podcasts, imagens básicas e ilustrações e evitando perguntas de teste
 
-{{< image title="Conceitos de delegação" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/slide-conceitos.jpeg" alt="Conceitos de delegação" >}}
+Tal atividade apareceria logo no início do processo para demonstrar (ainda que de forma limitada) o uso do design instrucional. 
 
-
-#### 3 - Podemos ajudar as pessoas a praticar o que eles precisam fazer? 
-
-
-
-#### 4 - Qual é o MÍNIMO de informação que a pessoa precisa para praticar o que eles precisam fazer? 
-
-
-
-{{< image title="Personagens com diferentes personalidades" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/slide-equipe.jpg" alt="Personagens com diferentes personalidades" >}}
-
-### Experiência de eLearning baseada em cenários 
+### Produção de eLearning informativo 
 
 #### Desenvolvimento
 
+O Nível 1 de Interatividade permitiu a escolha de uma ferramenta mais ágil para a produção. Nesse projeto escolhemos o **Articulate Rise 360**. Seus recursos permitem a construção de cursos responsivos com mais facilidade.
 
+Usamos a **sequência motivacional de Moore** para organizar os tópicos do curso. Ela foi projetada para ser um esboço para palestras persuasivas que movem o público em direção a um objetivo ou decisão. Ela é dividida em 5 partes e cada parte do curso corresponde à sequência.:
 
-{{< image title="Consequências para cada decisão" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/slide-demitido.jpg" alt="Consequências para cada decisão" >}}
+ - **Atenção**: Prender a atenção imediatamente com uma declaração surpreendente, uma pergunta de sondagem ou uma história comovente.
+ - **Necessidade**: Criar interesse ao conscientizar o público sobre uma necessidade ou questão de interesse próprio.
+ - **Satisfação**: Mostrar como a necessidade pode ser atendida ou satisfeita. Você pode criar confiança mostrando que você tem a resposta para todas as objeções conhecidas- por exemplo, objeções de custos, objeções de tempo etc.
+- **Visualização**: Imaginar dramaticamente os benefícios a serem obtidos. Isso criará um desejo se você usar motivações e emoções do próprio público.
+- **Ação**: Peça uma decisão ou ação definitiva.
 
-{{< image title="Combinação de doze possíveis finais" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/slide-promovido.jpg" alt="Combinação de doze possíveis finais" >}}
+{{< image title="Estrutura inicial dos tópicos" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/rise-estrutura.jpeg" alt="Estrutura inicial dos tópicos" >}}
+
+Os elementos interativos são importantes em qualquer curso e representou um desafio no projeto. O foco em conhecimento e compreensão do público-alvo exigia maior fluidez do conteúdo. 
+
+Atividades e interatividade interrompem o fluxo da transferência de informações, portanto sempre são utilizados com um objetivo específico em mente. Pensamos na interatividade como demonstração dos recursos disponíveis, ao invés de ferramentas avaliação de medir a captação de conhecimento.
+
+Por exemplo, utilizamos interatividades *clique-a-revelar*, que costumavam ser consideradas  elementos de *nível 2 de interatividade*. No entanto, usamos essa interatividade como no nível 1, para gerar reflexão e identificação do participante com o conteúdo proposto.
+
+O **Rise 360** é uma ferramenta de autoria ágil e já traz consigo vários elementos de animação, o que deixa o visual mais dinâmico - ao contrário da monotonia de ler uma apresentação em Powerpoint, por exemplo.
+
+{{< image title="Flashcards" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/rise-flashcard.jpeg" alt="Flashcards" >}}
+
+Recebemos na fase final o feedback de que parte do conteúdo escrito poderia ser adaptado para vídeos ou animações. Para validar essa mudança criamos vídeos usando o **Text-to-Speech (síntese de fala realista)**. Nos surpreendemos com a reação positiva à ferramenta. Embora não substitua a narração profissional nas versões finais do projeto, é um recurso importante quando usado de forma inteligente.
 
 #### Características do projeto 
 
-- **Visual personalizado:** Para criar uma experiência de aprendizagem assertiva, usei visuais que levam o aluno para situações de orientação e acompanhamento do delegado.  
-- **Escolhas:** Cada fase do processo de delegação exige do aluno uma decisão. Cada decisão impacta o resultado final do desafio. 
-- **Mentor:** O aluno pode acessar um mentor para ajudá-los no cenário se sentir que precisa de apoio. Cada pergunta tem um módulo de ajuda dentro dele que tenta indicar o caminho de raciocínio, mas não dá a resposta para a pergunta. 
-- **Feedback da escolha:** À medida que o aluno navega pela experiência, ele receberá feedback por suas escolhas. Quando escolherem a resposta correta, reforçarão porque sua ação seria uma boa escolha. Se o aluno escolher uma opção incorreta, ele fornecerá feedback sobre as suas consequências. Assim como na realidade, ele não poderá voltar, mas poderá tomar decisões melhores daqui para frente 
-- Os 3 diferentes finais levaram os alunos a refazer o curso, se desafiando a "*ser promovido*" ou conseguir *acertar todas as decisões*. 
+- **Fluidez do conteúdo:** Para criar uma experiência de conhecimento e compreensão, a fluidez do conteúdo é essencial para não sobrecarregar o participante.
+- **Elementos visuais dinâmicos:** Pequenas animações quebram a monotonia de conteúdos informacionais. 
+- **Storytelling:** Transformamos o conteúdo informacional em uma jornada contada com o olhar de empreendedores e empresários. Utilizamos técnicas acionáveis do **[Derek Gaunt](https://www.amazon.com.br/Ego-Authority-Failure-Intelligence-Negotiator-ebook/dp/B09TMVPYSY/)** de *influência baseada em confiança* que poderá motivar e inspirar o participante.
+- **Text-to-Speech: síntese de fala realista**: usamos o recurso durante a fase de criação de vídeos. Embora o *text-to-speech* não substitua a narração profissional, ele é uma ótima ferramenta para a prototipagem rápida e validação de conceitos. 
 
-{{< image title="Visão geral do projeto" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/slide-full-view.png" alt="Visão geral do projeto" >}}
+{{< image title="Navegação inicial" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/portfolio/rise-3.jpeg" alt="Navegação inicial" >}}
 
 ## **Reflexão final** 
 
-O processo de criação do **Cenário Liderança e Delegação** me proporcionou várias experiências importantes. As principais lições para mim foram: 
+O processo de criação do **Cenário Liderança e Delegação** proporcionou uma experiência única ao se posicionar na fronteira entre *aprendizagem* e *marketing de conteúdo*. Foi preciso evitar as armadilhas de montar uma apresentação do tipo *pitch deck* e se ater a experiência de aprendizagem. As principais lições para mim foram: 
 
-- **Visuais:** Usei o Microsoft Powerpoint para criar o mock-up do curso, seu visual e o rascunho das interações. Essa escolha tornou mais fácil e rápido o compartilhamento e feedback, já que boa parte das pessoas já utiliza esse programa (ou algo similar). Nas fases iniciais dos projetos é importante usar ferramentas acessíveis às diversas pessoas envolvidas, não apenas ao designer instrucional e seu time. 
-- Depois dos retornos, importei o modelo para o Articulate Storyline e comecei o desenvolvimento com as ferramentas do programa.  
-- **Articulate Storyline:** Quanto mais complexo o projeto, mais o Articulate Storyline se mostra importante. Os diálogos foram criados usando *layers*. Isso foi essencial para manter a consistência das interações durante o projeto, me permitindo expandir ou reduzir a quantidade de interações conforme o necessário. 
-- Utilizei *variáveis* para criar consequências e diferentes finais de acordo com as decisões do aluno. Ao invés de criar caminhos lineares de cada decisão, as *variáveis* permitiram um sistema flexível, permitindo o aluno a tomar decisões certas que tenham impacto, mesmo depois de escolher errado anteriormente. Isso permite que mesmo com problemas no caminho, o delegador consiga gerenciar o projeto para conseguir um resultado positivo, assim como acontece na realidade.  
-- **Experiência do Usuário (UX):** A experiência do usuário sempre foi um elemento essencial na criação de qualquer ferramenta e experiência de aprendizagem. Os alunos gostaram do processo. Notamos uma diferença no retorno dos alunos que experimentaram o cenário inicialmente no smartphone ao invés de computadores, principalmente em relação tamanho das fontes em smartphones em telas pequenas, o que nos levou a recomendar que a primeira experiência fosse realizada em tablets ou computadores. 
-- Cenários complexos precisam de um desenvolvimento dedicado de uma UX para uma versão móvel devido as particularidades do uso nos smartphones. 
+- **Articulate Rise 360:** É uma ferramenta de desenvolvimento poderosa, com bens recursos e responsiva. Ela se enquadra melhor em projetos de implantação rápida quando o design e interatividade não exige níveis altos de interação ou personalização. 
+- **Pesquisa de conteúdo**: Ao trabalhar com *especialistas no assunto* (SME) de design instrucional, pude relembrar a complexidade de pesquisar, redigir e revisar os conteúdos do ponto de vista dos *especialistas*. Priorizar informações e entregá-las em uma sequência diferente da estabelecida é um desafio: precisamos esclarecer nossas escolhas (de DI) e trabalhar com os especialistas (SME) para criar uma solução que faça sentido e seja valorizada pelo participante.
+- **Prazo de desenvolvimento:** O Rise 360, como solução de implantação rápida, nos faz ganhar tempo na fase de desenvolvimento das soluções de design. Entretanto, as demais fases continuam com seus prazos, de acordo com as necessidades de cada etapa. 
+- **Experiência do Usuário (UX):** O Rise 360 torna a experiência do usuário agradável e dinâmica. Entretanto, é preciso pensar na estrutura do curso para evitar elementos de interatividade que, mesmo interessantes do ponto de vista de design, não agrega na experiência de aprendizagem e pode distrair ou sobrecarregar o participante. 
 
 Se gostou desse projeto e acredita que podemos ajudar a sua empresa, ficamos à sua disposição. 
 
