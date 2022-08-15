@@ -38,7 +38,6 @@ experience:
     - Obsidian
     - Scrivener
     - Outliner
-draft: true
 ---
 
 ## Visão geral 
