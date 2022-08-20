@@ -13,6 +13,12 @@ tags:
 categories:
   - Conceitos
 image: /images/post/ADDIE.png
+keywords:
+  - Design Instrucional
+  - ADDIE
+  - Análise
+  - Desenvolvimento
+  - Instructional Design
 ---
 
 O design instrucional surgiu depois da Segunda Guerra Mundial para melhorar o treinamento milhares de pessoas no setor militar. Isso mostra que o design instrucional não é um conceito novo, muito menos um modismo. É uma disciplina rigorosa baseada em evidências. E todo processo tem um início.
@@ -29,7 +35,8 @@ O desenvolvimento de experiências de aprendizagem é sofisticado e complexo. O 
 4. Implementação
 5. Avaliação 
 
-![[headway-5QgIuuBxKwM-unsplash.jpg]]
+![](headway-5QgIuuBxKwM-unsplash.jpg)
+
 ## Fase de Análise
 
 A fase de análise esclarece os problemas e objetivos instrucionais e identifica o ambiente de aprendizagem e os conhecimentos e habilidades existentes do aluno. 
@@ -74,7 +81,8 @@ O objetivo de qualquer oportunidade de aprendizado é ajudar o aluno a alcançar
 
 A fase de análise pode ser rápida ou muito complexa. Não existe uma fórmula certa para definir a sua duração - normalmente ela dura o tempo necessário para identificar as questões chaves ou pelo tempo que o orçamento da empresa permitir. Quanto melhor for a análise de necessidades, melhor será o desenvolvimento das próximas fases.
 
-![[edho-pratama-T6fDN60bMWY-unsplash.jpg]]
+![](edho-pratama-T6fDN60bMWY-unsplash.jpg)
+
 ## Fase de Design 
 
 A **fase de design** - ou desenho - cria a experiência de aprendizagem de acordo com o resultado da fase de análise. Aqui decidimos e definimos objetivos de aprendizado, métodos e atividades instrucionais (manuais, job aids, workshops, webinar, treinamentos, cursos eLearning, etc.), storyboards, conteúdo, conhecimento do assunto, esboços de lições e recursos de mídia.
@@ -93,7 +101,8 @@ A fase de design deve ser sistemática e específica. Sistemático significa que
 
 Assim como na fase anterior, os especialistas no assunto (SME) continuam o trabalho junto com o designer instrucional. A atenção ao detalhe é imprescindível para desenhar a aprendizagem: o conhecimento do SME sobre sua área é o que permite o designer instrucional aplicar o próprio conhecimento no projeto. 
 
-![[brooke-lark-cqOZcjOOmRw-unsplash.jpg]]
+![](brooke-lark-cqOZcjOOmRw-unsplash.jpg)
+
 ## Fase de Desenvolvimento
 
 A fase de desenvolvimento do modelo ADDIE é onde os designers instrucionais produzem o conteúdo e as interações de aprendizagem descritas na fase de design. Durante esta fase, o conteúdo é escrito e gráficos, áudio ou quaisquer outros meios também são criados e montados.
@@ -108,7 +117,8 @@ Algumas empresas acreditam que o papel do designer instrucional é criar o conte
 
 Vários designers instrucionais se especializaram na produção de conteúdo - por exemplo, usando ferramentas como o Articulate Storyline e Rise, entre outras. A pessoa certa para o desenvolvimento do conteúdo é um profissional especializado. Ele também pode ser um designer instrucional, ou não.
 
-![[antenna-ohNCIiKVT1g-unsplash.jpg]]
+![](antenna-ohNCIiKVT1g-unsplash.jpg)
+
 ## Fase de Implementação
 
 Durante a parte de implementação do modelo ADDIE, o designer instrucional entrega o conteúdo e os materiais para o Learning Management Systems (LMS), diretamente para o treinador para eventos de treinamento, ou o responsável pela implementação. 
@@ -118,7 +128,8 @@ Assim como na fase de desenvolvimento, quem fará a implementação e como ela s
 
 O importante é garantir que tudo que o aluno precise para aproveitar a experiência de aprendizagem esteja entregue e disponível para ele. 
 
-![[carlos-muza-hpjSkU2UYSU-unsplash.jpg]]
+![](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
+
 ## Fase de Avaliação
 
 Durante a fase de avaliação do modelo ADDIE, o designer instrucional aplica o que será o sucesso da experiência de aprendizagem e como ele será medido. Muitas vezes, a avaliação consiste em duas fases: formativa e somativa. 

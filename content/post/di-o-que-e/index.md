@@ -1,17 +1,22 @@
 ---
 title: O que é Design Instrucional
-description: Design Instrucional - ou Instructional Design - combina a arte de criar experiências de aprendizagem envolventes com a ciência de como o cérebro funciona.
-image: images/1-design.jpg
+description: Design Instrucional - ou Instructional Design - combina a arte de criar
+  experiências de aprendizagem envolventes com a ciência de como o cérebro
+  funciona.
+image: /images/post/di-o-que-e-1.png
 categories:
   - Instructional Design
+  - Conceitos
 slug: o-que-e-design-instrucional-ou-instructional-design
 tags:
-  - Instructional Design
   - Design Instrucional
-date: 2022-03-11T17:47:59.882Z
+  - Instructional Design
+  - O que é
+date: 2022-08-18T23:44:34.000Z
 keywords:
-  - Instructional Design
   - Design Instrucional
+  - Instructional Design
+  - O que é
 toc: true
 ---
 
@@ -25,6 +30,8 @@ Sua abordagem sistemática para analisar as necessidades de aprendizagem, para f
 
 Desde então novos estudos na área de como a _aprendizagem acontece_ e na _forma como ela é implementada_ surgiram, criando um outro jeito de ensinar e aprender - mais eficaz e inteligente.
 
+{{< youtube VJDskZ2LXEE >}}
+
 ## Como o Design Instrucional é diferente dos treinamentos
 
 Criar experiências eficazes de aprendizagem é complicado. Existem muitas práticas de aprendizagem amplamente implementadas que mais parecem _mitos_ ou _crendices_. Não surpreende que a maioria das experiências formais de aprendizagem sejam incrivelmente ineficientes.
@@ -37,6 +44,7 @@ Ao contrário dos treinamentos que desenvolvem o material com especialistas e ap
 
 Ou seja, em um treinamento normal você só descobre se deu certo ou não quando você não tem mais o que fazer: no **final do processo.**
 
+![](1658920212396.jpg)
 ## O que faz um Designer Instrucional?
 
 O **processo de design instrucional** consiste em determinar as necessidades dos participantes (alunos, empresa, ou seja, todos os _stakeholders_ no processo), definir as metas finais e objetivos da instrução, projetar e planejar tarefas de avaliação e projetar atividades de ensino e aprendizagem para garantir a qualidade da instrução.

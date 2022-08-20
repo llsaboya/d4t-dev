@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a268b253acaeb1",
+        "id": "4b38e2252915c275",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,16 +12,6 @@
             "file": "content/post/di-addie/index.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "12a38254e3986b62",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "content/post/di-addie/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
           }
         }
       }
@@ -97,15 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7a268b253acaeb1",
+  "active": "4b38e2252915c275",
   "lastOpenFiles": [
-    "content/post/di-addie/headway-5QgIuuBxKwM-unsplash.jpg",
+    "content/post/di-o-que-e/index.md",
     "content/post/di-addie/index.md",
+    "content/post/di-o-que-e/1658920212396.jpg",
+    "1658920212396.jpg.md",
     "content/post/di-addie/carlos-muza-hpjSkU2UYSU-unsplash.jpg",
+    "content/post/di-o-que-e/inedx.md",
+    "content/post/di-addie/headway-5QgIuuBxKwM-unsplash.jpg",
     "content/post/di-addie/edho-pratama-T6fDN60bMWY-unsplash.jpg",
     "content/post/di-addie/brooke-lark-cqOZcjOOmRw-unsplash.jpg",
-    "content/post/di-addie/antenna-ohNCIiKVT1g-unsplash.jpg",
-    "content/post/2020-11-23-dale-carnegie-vale-a-pena.md",
-    "content/post/2020-07-10-devo-pagar-curso-de-soft-skills.md"
+    "content/post/di-addie/antenna-ohNCIiKVT1g-unsplash.jpg"
   ]
 }
