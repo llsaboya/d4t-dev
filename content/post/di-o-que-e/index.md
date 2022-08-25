@@ -12,11 +12,13 @@ tags:
   - Design Instrucional
   - Instructional Design
   - O que é
+  - ADDIE
 date: 2022-08-18T23:44:34.000Z
 keywords:
   - Design Instrucional
   - Instructional Design
   - O que é
+  - ADDIE
 toc: true
 ---
 
@@ -71,7 +73,7 @@ Nos últimos anos, as abordagens mais ágeis e interativas cresceram no mercado,
 
 Os modelos de design instrucional mais usados incluem:
 
--   ADDIE
+-   [ADDIE](https://d4t.dev/post/addie-design-instrucional/)
 -   Mapeamento de Ação de Cathy Moore
 -   Modelo Dick e Carey
 -   Modelo de design de Kemp
