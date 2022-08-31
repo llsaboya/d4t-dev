@@ -1,125 +1,19 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)
+O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição _e_ aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação de necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia. 
 
-# Hugo Novela Forestry Starter
+O **Design 4 Thinking** existe para apoiar empresas, empresários, alunos, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizagem mais eficazes combinando a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona. 
 
-A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://www.narative.co/labs/novela/)
+### Quem comanda esse projeto 
 
-![](images/tn.png)
+Meu nome é Lefebvre Saboya. Sou formado em Processos Gerenciais e pós-graduando em Design Instrucional. Comecei a ensinar na monitoria do meu curso pré-vestibular para pagar meus estudos. Trabalhei com publicidade e marketing fazendo *avaliação crítica* para diversas campanhas. Durante 5 anos trabalhei no Banco do Estado do Rio Grande do Sul (Banrisul) realizando "Análise 360" das agências da rede de atendimento.  
 
-<a href="https://app.forestry.io/quick-start?repo=forestryio/novela-hugo-starter&engine=hugo&version=0.80.0">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a>
+O processo é simples. Usando o processo ADDIE e *Values Clarification*, para analisar as lacunas de conhecimentos e habilidades dentro de um grupo específico. Com a ajuda de Especialistas em Assuntos (SMEs), desenvolvo um plano que atenda às necessidades da organização criando experiências que desenvolvam a atitudes reflexivas e prática diante de situações problemáticas. 
 
-## Prerequisites
+Na medida em que o mundo dos negócios continua a mudar, as organizações e suas escolhas de aprendizagem mudam também. Ao iniciar um projeto eu desenvolvo a tarefa de identificar essas necessidades e descobrir a melhor forma de desafiar a capacidade dos profissionais em estabelecer relações e se tornarem capazes de ver mais de uma maneira de atingir os resultados. 
 
-This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-modules/)
+O principal desafio de qualquer projeto de Design Instrucional é desenvolver uma equipe profissional que entregue o processo de aprendizagem certo. É por isso que trabalhamos com *Especialistas no Assunto* (SMEs) para criar fundações sólidas pra o projeto, desde design gráfico, passando pela experiência de usuário (UX) e qualquer objetivo específico que seja particular na área de atuação da sua organização. 
 
-- Go > 1.12
-- Hugo > 0.65.0 
+### Saiba Mais 
 
-## Content Management
+Se tiver qualquer pergunta basta [entrar em contato](https://d4t.dev/contact/) para conversarmos. Enquanto isso, se você se interessar, descubra um pouco mais sobre o Design Instrucional com os links abaixo.
 
-![Forestry user interface](images/novela-forestry.png)
-
-This starter is ready to be imported into [Forestry](https://forestry.io)  ✨.
-
-Any changes you save in the CMS will be commited back to your Git repository.
-
-## Deploy on Netlify
-
-Import your repository in [Netlify](https://netlify.com)
-
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Set `GO_VERSION` to `1.12` or above
-4. Set `HUGO_VERSION` to `0.65.3` or above
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
-
-## Deploy on Vercel
-
-Import your repository in [Vercel](https://vercel.com/new/git/third-party)
-
-[Add a bash script](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-hugo_build-sh) and [build steps via a `vercel.json` file](https://gist.github.com/DirtyF/4f89704ecd619c0dcd439d74115da542#file-vercel-json) in your repository in order to build the site.
-
-## Development
-
-```bash
-# clone your repository
-# cd in your project directory
-# Start local server
-hugo server
-```
-
-For more information, see [official Hugo documentation](https://gohugo.io/getting-started/).
-
-## Customization
-
-### Logo
-
-Add to your projects layout directory your logo's SVG:
-`/layouts/icons/ui/logo.html`
-
-### Socials
-
-In order for the Socials to be surfaced in Forestry, you should copy the theme's `config/_default/social.yaml` to your project.
-
-### Authors
-
-You should register authors as a taxonomy in your project's `config.yaml``
-
-```yaml
-taxonomies:
-  author: authors
-```
-
-#### Creating authors
-
-Add a similar file to your content directory and Front Matter example.
-
-```yaml
-# /content/authors/firstname-lastname/_index.md
----
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
-featured: true
-social:
-  - title: github
-    url: https://github.com
-  - title: twitter
-    url: https://twitter.com
-  - title: instagram
-    url: https://instagram.com
-  - title: dribbble
-    url: https://dribbble.com
-  - title: unsplash
-    url: https://unsplash.com
----
-```
-
-#### Assigning authors to posts.
-
-Add the name of the author to the "authors" field:
-
-```yaml
-authors:
-  - Dennis Brotzky
-  - Thiago Costa
-```
-### Newsletter call to action
-
-This theme includes a shortcode for a newsletter callout form that you can add to any page.
-It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
-
-```
-{{< subscribe email="your@email.com" >}}
-```
-
-
-## LICENSE
-
-MIT
+- [O que é Design Instrucional](https://d4t.dev/post/o-que-e-design-instrucional-ou-instructional-design/)

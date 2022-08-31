@@ -35,7 +35,7 @@ O desenvolvimento de experiências de aprendizagem é sofisticado e complexo. O 
 4. Implementação
 5. Avaliação 
 
-![](headway-5QgIuuBxKwM-unsplash.jpg)
+![image](headway-5QgIuuBxKwM-unsplash.jpg)
 
 ## Fase de Análise
 
@@ -81,7 +81,7 @@ O objetivo de qualquer oportunidade de aprendizado é ajudar o aluno a alcançar
 
 A fase de análise pode ser rápida ou muito complexa. Não existe uma fórmula certa para definir a sua duração - normalmente ela dura o tempo necessário para identificar as questões chaves ou pelo tempo que o orçamento da empresa permitir. Quanto melhor for a análise de necessidades, melhor será o desenvolvimento das próximas fases.
 
-![](edho-pratama-T6fDN60bMWY-unsplash.jpg)
+![image](edho-pratama-T6fDN60bMWY-unsplash.jpg)
 
 ## Fase de Design 
 
@@ -99,9 +99,9 @@ Infelizmente, algumas pessoas têm apresentado a fase de design como **uma forma
 
 A fase de design deve ser sistemática e específica. Sistemático significa que o designer instrucional age segundo um método para tornar eficaz a experiência de aprendizagem necessária. Específico significa que o designer indicar com precisão o plano de design instrucional com instruções minuciosas e precisas para serem executadas na próxima fase.
 
-Assim como na fase anterior, os especialistas no assunto (SME) continuam o trabalho junto com o designer instrucional. A atenção ao detalhe é imprescindível para desenhar a aprendizagem: o conhecimento do SME sobre sua área é o que permite o designer instrucional aplicar o próprio conhecimento no projeto. 
+Assim como na fase anterior, os especialistas no assunto (SME) continuam o trabalho junto com o designer instrucional. A atenção ao detalhe é imprescindível para desenhar a aprendizagem: o conhecimento do SME sobre sua área é o que permite o designer instrucional aplicar o próprio conhecimento no projeto.
 
-![](brooke-lark-cqOZcjOOmRw-unsplash.jpg)
+![Image](brooke-lark-cqOZcjOOmRw-unsplash.jpg)
 
 ## Fase de Desenvolvimento
 
@@ -117,7 +117,7 @@ Algumas empresas acreditam que o papel do designer instrucional é criar o conte
 
 Vários designers instrucionais se especializaram na produção de conteúdo - por exemplo, usando ferramentas como o Articulate Storyline e Rise, entre outras. A pessoa certa para o desenvolvimento do conteúdo é um profissional especializado. Ele também pode ser um designer instrucional, ou não.
 
-![](antenna-ohNCIiKVT1g-unsplash.jpg)
+![Image](antenna-ohNCIiKVT1g-unsplash.jpg)
 
 ## Fase de Implementação
 
@@ -128,7 +128,7 @@ Assim como na fase de desenvolvimento, quem fará a implementação e como ela s
 
 O importante é garantir que tudo que o aluno precise para aproveitar a experiência de aprendizagem esteja entregue e disponível para ele. 
 
-![](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
+![Image](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
 
 ## Fase de Avaliação
 

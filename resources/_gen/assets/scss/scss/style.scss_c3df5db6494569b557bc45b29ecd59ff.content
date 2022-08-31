@@ -6490,7 +6490,7 @@ html {
   font-size: 16px; }
 
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Arimo", sans-serif;
   font-weight: 400;
   line-height: 1.75;
   color: #3c4041; }
@@ -6823,7 +6823,7 @@ select {
     border: 0;
     border-radius: 0;
     background-color: transparent;
-    font-family: "Raleway", sans-serif;
+    font-family: "Arimo", sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #f0ece6;
     color: #3c4041;
@@ -6885,7 +6885,7 @@ select {
   color: #FFF !important; }
 
 .font-primary {
-  font-family: "Raleway", sans-serif !important; }
+  font-family: "Arimo", sans-serif !important; }
 
 .zindex-1 {
   z-index: 1; }
@@ -6955,7 +6955,7 @@ select {
       .content blockquote {
         padding: 30px 50px; } }
     .content blockquote p {
-      font-family: "Raleway", sans-serif;
+      font-family: "Arimo", sans-serif;
       font-size: 24px;
       color: #3c4041;
       line-height: 32px;
