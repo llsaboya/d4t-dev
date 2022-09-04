@@ -1,8 +1,7 @@
 ---
 title: O que é ADDIE - Design Instrucional
 date: 2022-08-19T22:04:50.352Z
-description: ADDIE é o termo usado para descrever uma abordagem sistemática para o
-  desenvolvimento instrucional.
+description: ADDIE é o termo usado para descrever uma abordagem sistemática para o desenvolvimento instrucional.
 slug: addie-design-instrucional
 tags:
   - Design Instrucional
