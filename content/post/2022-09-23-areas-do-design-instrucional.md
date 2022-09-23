@@ -7,8 +7,14 @@ categories:
   - Para Empresas
 tags:
   - Instructional Design
-  - Universidade Corporativa
   - Design Instrucional
+  - Vagas
+  - LinkedIn
+  - Áreas do Design Instrucional
+  - Emprego
+  - Carreira
+  - Empresas
+  - Gestão de Conhecimento
 image: images/thomas-franke-B-rJSDRNxYw-unsplash.jpg
 slug: 5-areas-design-instrucional
 date: 2022-09-23T19:24:28.661Z
@@ -46,87 +52,46 @@ Algumas empresas precisam urgentemente de esclarecimento[^1]. É possível achar
 Ainda que certas descrições de vaga se sobreponham com a área de atuação design instrucional, em alguns casos é claro a tentativa de *"forçar a barra"* nessas contratações: 
 
 - Arquiteto de aprendizagem 
-
 - Analista de treinamento 
-
 - Analista em educação corporativa 
-
 - Analista de comunicação e negócios 
-
 - Analista de treinamento e desenvolvimento 
-
 - Analista de desenvolvimento organizacional 
-
 - Analista de desenvolvimento & treinamento 
-
 - Analista de recursos humanos em educação corporativa 
-
 - Analista de recursos humanos em treinamento e desenvolvimento 
-
 - Assistente administrativo de treinamento 
-
 - Assistente de design instrucional 
-
 - Administrador de LMS 
-
 - Conteudista 
-
 - Consultor de talentos e cultura 
-
 - Consultor de treinamentos 
-
 - Consultor de treinamentos trainee 
-
 - Coordenador de plataformas EAL/LMS/LXP 
-
 - Coordenador de treinamento 
-
 - Coordenador de projetos instrucionais 
-
 - Desenvolvedor em design instrucional 
-
 - Designer educacional 
-
 - Designer de interação 
-
 - Designer de aprendizagem 
-
 - Desenvolvedor instrucional 
-
-- Desenvolvedor eLearning 
-
+- Desenvolvedor eLearning
 - Desenvolvedor de cursos para ensino à distância 
-
 - Diretor educacional 
-
 - Diretor instrucional 
-
 - Especialista em treinamento 
-
 - Especialista EdTech 
-
 - Especialista educacional corporativo 
-
 - Fornecedor conteudista 
-
 - Gerente instrucional 
-
 - Gerente de educação 
-
 - Gerente de aprendizagem 
-
 - Gerente de programas instrucionais 
-
 - Gerente de oferta educacional 
-
 - Gerente de desenvolvimento humano organizacional 
-
 - Gerente de projetos em treinamentos 
-
 - Líder de aprendizagem 
-
 - Líder de design instrucional 
-
 - Mestre em treinamento e desenvolvimento (que na verdade é "assistente") 
 
 ## As 5 áreas do design instrucional 
@@ -140,13 +105,9 @@ A maioria dos designers instrucionais se destacam em uma ou várias áreas, seja
 Essas áreas são: 
 
 - **Como os adultos aprendem**: É o conhecimento fundamental do design instrucional. Se falamos de aprendizagem de adultos, estamos nos referindo a andragogia. Nas séries iniciais, falamos sobre pedagogia.  
-
 - **Gerenciamento de projetos**: Designers precisam gerenciar vários projetos instrucionais, seus prazos, deliverables, deadlines e, mais importante, orçamento. 
-
 - **Colaboração com os especialistas no assunto**: Os designers instrucionais trabalham com os especialistas no assunto (SMEs) porque são eles os especialistas no assunto da experiência de aprendizagem. O designer instrucional não é especialista em determina área de conhecimento e precisam colaborar com esses especialistas para criar e desenvolver as melhores soluções de aprendizagem. 
-
 - **Pesquisa e análise**: Designer instrucionais precisam saber muito sobre pesquisa e análise. Não importa a solução de aprendizagem (pense em um curso, um treinamento, um programa, um workshop, um webinar, seja lá o que for), o DI precisa saber sobre o público-alvo, a audiência, os problemas a serem resolvidos, as soluções disponíveis para desenvolvimento e sua implementação (se você já tivesse as respostas não precisaria de um DI em primeiro lugar). Aliás, como saber se as soluções encontradas foram eficazes sem pesquisa ou análise quantitativa ou qualitativa? 
-
 - **Tecnologia**: Enfim as ferramentas de autoria, plataformas de aprendizado. Tecnologia é parte do design instrucional e a área com evolução e mudanças mais rápida de todas as cinco. 
 
 Então, por que o design instrucional confunde tanto?  
