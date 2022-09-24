@@ -5,6 +5,7 @@ description: O mercado de Design Instrucional pode parecer confuso porque existe
 categories:
   - Instructional Design
   - Para Empresas
+  - Conceitos
 tags:
   - Instructional Design
   - Design Instrucional
@@ -15,15 +16,22 @@ tags:
   - Carreira
   - Empresas
   - Gestão de Conhecimento
+  - Articulate Storyline
+  - Articulate Rise
+  - Adobe Captivate
+  - Vyond
+  - Análise
+  - Pesquisa
+  - Tecnologia
 image: images/thomas-franke-B-rJSDRNxYw-unsplash.jpg
 slug: 5-areas-design-instrucional
 date: 2022-09-23T19:24:28.661Z
 toc: true
 ---
 
-O mercado de Design Instrucional pode parecer confuso.  
+O mercado de Design Instrucional pode parecer confuso. Quando não é apenas **"o caos"**.
 
-O Design Instrucional hoje é usado como um termo para vários tipos de profissionais envolvidos com experiência de aprendizado e educação à distância. Várias empresas hoje tentam implantar o design instrucional na sua estrutura, buscando melhora de performance, produtividade e maiores lucros. Porém, o crescimento do design instrucional acontece de forma desordenada e cheia de confusão. 
+Gestão de conhecimento não é prioridade nas empresas, principalmente naquelas possuem diversos funcionários fazendo mais ou menos a mesma coisa. Se um faltar, os outros repõe. Também é comum encontrar colecionadores de **mapeamento de processos**, coaches de **treinamento de alta performance** e gurus de **fórmulas mágicas de desempenho**. Difícil mesmo é algum deles mostrar análises de resultados detalhados de longo-prazo. Contudo, toda empresa jura que prioriza o treinamento e desenvolvimento de suas equipes.
 
 De acordo com a [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/how-we-help-clients/growth-and-innovation), mesmo que 86% dos executivos concordem que a inovação é fundamental para a estratégia de crescimento, apenas 6% deles estão satisfeitos com os esforços inovadores na sua empresa. Em outras palavras, as empresas precisam de estratégias inovadoras, mas estão com dificuldades para criá-las e implementá-las. 
 
@@ -34,7 +42,6 @@ O design instrucional é composto de cinco grandes áreas. Como na medicina e su
 A maioria dos médicos sabem como tratar uma gripe, mas a partir desse ponto eles são bem diferentes uns dos outros.  
 
 Se você quer se certificar que sua empresa precisa de um **designer instrucional** (ou apenas descobrir se você precisa de um), você está no lugar certo.  
-
 ## Empresas também se confundem 
 
 >Um consultor para valer a pena deve fazer julgamentos honestos, não necessariamente aqueles que ele acha que os clientes gostariam de ouvir. - Andrew Thomas 
@@ -47,7 +54,7 @@ Consultores ruins possuem um conhecimento limitado do design instrucional, aplic
 
 Algumas empresas precisam urgentemente de esclarecimento[^1]. É possível achar dúzias de anúncios com a **descrição da vaga** exigindo design instrucional, mas que demonstram a confusão no planejamento desses negócios e na contratação que pretendem fazer.
 
-[^1]: Na pior das hipóteses, param de passar vergonha anunciando vagas absurdas no LinkedIn. 
+[^1]: Na pior das hipóteses, param de passar vergonha anunciando [vagas absurdas no LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3285674174&keywords=design%20instrucional). 
 
 Ainda que certas descrições de vaga se sobreponham com a área de atuação design instrucional, em alguns casos é claro a tentativa de *"forçar a barra"* nessas contratações: 
 
@@ -93,7 +100,6 @@ Ainda que certas descrições de vaga se sobreponham com a área de atuação de
 - Líder de aprendizagem 
 - Líder de design instrucional 
 - Mestre em treinamento e desenvolvimento (que na verdade é "assistente") 
-
 ## As 5 áreas do design instrucional 
 
 O design instrucional é composto de cinco grandes áreas.  
@@ -102,19 +108,18 @@ Pense na medicina e suas especializações.  Acho que todos os médicos sabem c
 
 A maioria dos designers instrucionais se destacam em uma ou várias áreas, seja por decisão profissional ou por exigências dos trabalhos. Um designer instrucional pode desenvolver uma carreira inteira se especializando em apenas uma área, ou em várias.  
 
-Essas áreas são: 
+Essas cinco áreas são: 
 
 - **Como os adultos aprendem**: É o conhecimento fundamental do design instrucional. Se falamos de aprendizagem de adultos, estamos nos referindo a andragogia. Nas séries iniciais, falamos sobre pedagogia.  
 - **Gerenciamento de projetos**: Designers precisam gerenciar vários projetos instrucionais, seus prazos, deliverables, deadlines e, mais importante, orçamento. 
 - **Colaboração com os especialistas no assunto**: Os designers instrucionais trabalham com os especialistas no assunto (SMEs) porque são eles os especialistas no assunto da experiência de aprendizagem. O designer instrucional não é especialista em determina área de conhecimento e precisam colaborar com esses especialistas para criar e desenvolver as melhores soluções de aprendizagem. 
-- **Pesquisa e análise**: Designer instrucionais precisam saber muito sobre pesquisa e análise. Não importa a solução de aprendizagem (pense em um curso, um treinamento, um programa, um workshop, um webinar, seja lá o que for), o DI precisa saber sobre o público-alvo, a audiência, os problemas a serem resolvidos, as soluções disponíveis para desenvolvimento e sua implementação (se você já tivesse as respostas não precisaria de um DI em primeiro lugar). Aliás, como saber se as soluções encontradas foram eficazes sem pesquisa ou análise quantitativa ou qualitativa? 
-- **Tecnologia**: Enfim as ferramentas de autoria, plataformas de aprendizado. Tecnologia é parte do design instrucional e a área com evolução e mudanças mais rápida de todas as cinco. 
+- **Pesquisa e análise**: Designer instrucionais precisam saber muito sobre pesquisa e análise para encontrar a solução de aprendizagem precisa para seu público-alvo, sua audiência. Elas são usadas para identificar os problemas a serem resolvidos, as soluções disponíveis para desenvolvimento e sua implementação.
+- **Tecnologia**: Enfim as ferramentas de autoria, plataformas de aprendizado, mas não só. Tecnologia é área do design instrucional com evolução e mudanças mais rápidas de todas as cinco. 
 
-Então, por que o design instrucional confunde tanto?  
+Por que o design instrucional confunde tanto?  
 
 Porque não importa a sua área de especialização (ou diversas delas), chamam todos de *designer instrucionais*. Todas as áreas são importantes no aprendizado. Todos os designers são importantes quando o foco é o aluno. 
-
-## Como os adultos aprendem 
+### Como os adultos aprendem 
 
 Andragogia[^2]refere-se a métodos e princípios usados na educação de adultos. A palavra vem do grego *ἀνδρ*- (andr-), que significa "homem", e *ἀγωγός* (agogos), que significa "líder de". Portanto, andragogia significa literalmente "liderando homens", enquanto "pedagogia" significa literalmente "liderando crianças". 
 
@@ -131,30 +136,33 @@ Não existe uma resposta única e definitiva pra a pergunta "como os adultos apr
 Como os adultos aprendem?  
 
 Depende dos adultos e do que precisa ser apreendido. 
-
-## Gerenciamentos de Projetos 
+### Gerenciamentos de Projetos 
 
 Eu vejo as coisas dessa forma: se você terminou bem o segundo grau já teria direito a uma certificação do Project Management Institute®, porque você precisou gerenciar projetos de língua portuguesa, matemática, história, geografia, educação artística, educação física por mais de uma década. 
 
-Uma especialização em design instrucional é o **gerenciamento dos projetos instrucionais**. 
+Gerenciar portfólios de projetos é uma habilidade importante, principalmente quando você é o responsável por todas as coisas relacionadas ao DI na empresa.
 
-Gerenciar portfólios de projetos é uma habilidade importante, principalmente quando você é o responsável por todas as coisas relacionadas ao DI na empresa.  
+Um designer especialista em **gerenciamento dos projetos instrucionais** é um dos profissionais mais valorizados no mercado.
+
+Ao mesmo tempo, algumas pessoas acreditam que essa habilidade é básica e inerente a qualquer designer instrucional.
 
 O gerente de projetos de design instrucional é generalista por natureza. É seu trabalho entender todas as partes de todos os projetos sobre sua responsabilidade e, principalmente, saber se relacionar com a equipe envolvida no desenvolvimento de cada um. 
 
-Outra tarefa importante é manter os projetos **dentro o orçamento**.  
+Outra tarefa vital é manter os projetos **dentro o orçamento** - habilidade importantíssima que nem precisa de explicação.
 
-## Colaboração com os especialistas no assunto 
+Saber gerenciar projetos é uma característica essencial para a diferenciação entre o designer instrucional júnior, pleno e sênior.
 
-Os designers instrucionais não são especialistas em uma área particular. Na maioria dos casos o designer instrucional entra em uma parceria com um especialista no assunto (chamados carinhosamente de SMEs) para o desenvolvimento do conteúdo do curso. 
+### Colaboração com os especialistas no assunto 
+
+Os designers instrucionais não são especialistas em uma área particular. O designer instrucional entra em uma parceria com um especialista no assunto (chamados carinhosamente de SMEs) para o desenvolvimento do conteúdo necessário pra a experiência de aprendizagem. 
 
 Você pode conhecer mais sobre esse relacionamento nesse vídeo: 
 
-{{< youtube H48CgPmPphY >}}
+{{< youtube id="H48CgPmPphY" title="Quem são os especialistas no assunto?" >}}
+
 
 O especialista pode entender tudo sobre a sua área, mas é o designer instrucional o especialista em aprendizagem. O designer instrucional cria e desenvolve experiências focadas no aluno, em estreita colaboração com os SMEs, para as pessoas apreenderem as informações necessárias para seu desenvolvimento. 
-
-## Pesquisa e Análise 
+### Pesquisa e Análise 
 
 Transformar dados em informação acionável é vital para o sucesso dos projetos de design instrucional. Pesquisa e análise são essenciais para esclarecer. 
 
@@ -168,11 +176,11 @@ Aliás, você também precisa saber se as experiências de aprendizagem realment
 
 Sempre há espaço melhorar algo que já está bom. 
 
-## Tecnologia 
+### Tecnologia 
 
 Quando as pessoas pensam em *design instrucional*, tecnologia é a primeira coisa que passam pelas suas cabeças. 
 
-Tecnologia são as ferramentas de autoria como o Adobe Captivate, Articulate Storyline, Articulate Rise, Vyond, mas não só.  
+Tecnologia são as ferramentas de autoria como o [Adobe Captivate](https://www.adobe.com/products/captivate.html), [Articulate Storyline](https://articulate.com/360/storyline), [Articulate Rise](https://articulate.com/360/rise), [Vyond](https://www.vyond.com/), mas não só.  
 
 Tecnologia também é conhecer os ambientes onde o aprendizado acontece, como os Ambientes Virtual de Aprendizagem (AVA) ou Learning Management System (LMS)[^3], quando tratamos de educação à distância. 
 
@@ -186,7 +194,7 @@ Todos esses cenários usam diferentes tecnologias, algumas tão antigas e já es
 
 Cabe ao designer instrucional, quando desenvolve as soluções de aprendizagem, utilizar a melhor ferramenta para garantir a experiência de aprendizagem.  
 
-Algumas soluções simples (até mesmo óbvias) geram mais resultados do que as novidades no mercado de DI.  
+Algumas soluções simples (até mesmo óbvias) geram mais resultados do que as novidades no mercado de DI.
 
 ## Em resumo 
 
