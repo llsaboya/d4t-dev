@@ -22,7 +22,7 @@ keywords:
 
 O design instrucional surgiu depois da Segunda Guerra Mundial para melhorar o treinamento milhares de pessoas no setor militar. Isso mostra que o design instrucional não é um conceito novo, muito menos um modismo. É uma disciplina rigorosa baseada em evidências. E todo processo tem um início.
 
-**ADDIE** é um termo coloquial usado para descrever uma abordagem sistemática para o desenvolvimento instrucional. A Universidade da Flórida o desenvolveu para as Forças Armadas Americanas. Profissionais passaram a revisar as etapas e, eventualmente, o modelo tornou-se mais dinâmico e interativo do que a versão militar original. Durante os anos 80 ela finalmente se tornou a ferramentas que usamos hoje. 
+**ADDIE** é um termo coloquial usado para descrever uma abordagem sistemática para o desenvolvimento instrucional. A Universidade da Flórida o desenvolveu para as Forças Armadas Americanas. Profissionais passaram a revisar as etapas e, eventualmente, o modelo tornou-se mais dinâmico e interativo do que a versão militar original. Durante os anos 80 ela finalmente se tornou a ferramentas que usamos  em todas as [áreas do DI](https://d4t.dev/post/5-areas-design-instrucional/). 
 
 Grande parte dos modelos de design instrucional atuais são derivados ou variantes do ADDIE. Quando tudo dá certo, assim como nas vendas, tudo parece apenas mágica. Porém, a compreensão de cada etapa e seu devido desenvolvimento garantem os sucessos dos projetos.
 

@@ -34,9 +34,9 @@ experience:
 
 ---
 
-O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição _e_ aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação de necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia. 
+O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição e aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação de necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia. Ela é [dividida em 5 áreas], cada uma com suas particularidades. 
 
-O **Design 4 Thinking** existe para apoiar empresas, empresários, alunos, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizagem mais eficazes combinando a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona. 
+O **Design 4 Thinking** existe para apoiar empresas, empresários, alunos, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizagem mais eficazes combinando a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona.
 
 ### Quem comanda esse projeto 
 
@@ -48,8 +48,9 @@ Na medida em que o mundo dos negócios continua a mudar, as organizações e sua
 
 O principal desafio de qualquer projeto de Design Instrucional é desenvolver uma equipe profissional que entregue o processo de aprendizagem certo. É por isso que trabalhamos com *Especialistas no Assunto* (SMEs) para criar fundações sólidas pra o projeto, desde design gráfico, passando pela experiência de usuário (UX) e qualquer objetivo específico que seja particular na área de atuação da sua organização. 
 
-### Saiba Mais 
+### Para Saber Mais 
 
 Se tiver qualquer pergunta basta [entrar em contato](https://d4t.dev/contact/) para conversarmos. Enquanto isso, se você se interessar, descubra um pouco mais sobre o Design Instrucional com os links abaixo. 
 
 - [O que é Design Instrucional](https://d4t.dev/post/o-que-e-design-instrucional-ou-instructional-design/)
+- [As 5 áreas do design instrucional](https://d4t.dev/post/5-areas-design-instrucional/)
