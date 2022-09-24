@@ -1,5 +1,5 @@
 ---
-title: As 5 áreas do Design Instrucional
+title: As 5 Áreas do Design Instrucional
 description: O mercado de Design Instrucional pode parecer confuso porque existem vários tipos
   de profissionais envolvidos nas suas cinco grandes áreas.
 categories:
@@ -29,9 +29,11 @@ date: 2022-09-23T19:24:28.661Z
 toc: true
 ---
 
-O mercado de Design Instrucional pode parecer confuso. Quando não é apenas **"o caos"**.
+O mercado de Design Instrucional pode parecer confuso. Quando não é apenas **"o caos"**. Precisei até [criar um M-learning para explicar o conceito](https://d4t.dev/post/di-para-empreendedores-empresarios/) porque fica mais fácil esclarecer o assunto. 
 
-Gestão de conhecimento não é prioridade nas empresas, principalmente naquelas possuem diversos funcionários fazendo mais ou menos a mesma coisa. Se um faltar, os outros repõe. Também é comum encontrar colecionadores de **mapeamento de processos**, coaches de **treinamento de alta performance** e gurus de **fórmulas mágicas de desempenho**. Difícil mesmo é algum deles mostrar análises de resultados detalhados de longo-prazo. Contudo, toda empresa jura que prioriza o treinamento e desenvolvimento de suas equipes.
+Gestão de conhecimento não é prioridade nas empresas, principalmente naquelas possuem diversos funcionários fazendo mais ou menos a mesma coisa. Se um faltar, alguém repõe. Também é comum encontrar colecionadores de **mapeamento de processos**, coaches de **treinamento de alta performance** e gurus de **fórmulas mágicas de desempenho**. Difícil mesmo é algum deles mostrar análises de resultados detalhados de longo-prazo. 
+
+Contudo, toda empresa jura que prioriza o treinamento e desenvolvimento de suas equipes.
 
 De acordo com a [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/how-we-help-clients/growth-and-innovation), mesmo que 86% dos executivos concordem que a inovação é fundamental para a estratégia de crescimento, apenas 6% deles estão satisfeitos com os esforços inovadores na sua empresa. Em outras palavras, as empresas precisam de estratégias inovadoras, mas estão com dificuldades para criá-las e implementá-las. 
 
@@ -100,7 +102,7 @@ Ainda que certas descrições de vaga se sobreponham com a área de atuação de
 - Líder de aprendizagem 
 - Líder de design instrucional 
 - Mestre em treinamento e desenvolvimento (que na verdade é "assistente") 
-## As 5 áreas do design instrucional 
+## Quais são 5 áreas do design instrucional 
 
 O design instrucional é composto de cinco grandes áreas.  
 
