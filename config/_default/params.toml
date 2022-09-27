@@ -16,7 +16,7 @@ author = "Lefebvre de Saboya"
 image = "images/1-design.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Rua Lopo Gonçalves 487 - Porto Alegre - RS"
-mobile = "+211234565523"
+mobile = "(51) 3072-3150"
 email = "hello@d4t.dev"
 # contact form action
 contact_form_action = "https://formspree.io/f/xayvgndj" # contact form works with https://formspree.io
@@ -25,12 +25,12 @@ search = true
 
 # featured post title
 featured_post_title = "Portfólio"
-recent_post_title = "Artigos"
+recent_post_title = "Blog"
 mainSections = ["post"]
 # about widget content
-about_widget_content = "Aprendizado com história, emoção e propósito: os benefícios são maiores do que você pensa"
+about_widget_content = "O Design Instrucional desenha experiências que levam ao crescimento."
 # footer content
-footer_content = "Aprendizado com história, emoção e propósito."
+footer_content = "Design 4 Thinking - Instructional Design"
 # copyright
 copyright = "Todos os direitos reservados. © 2022"
 
@@ -50,14 +50,14 @@ title_large = "Design **4** Thinking"
 title_small = "Instructional Design"
 image = "images/hero-image.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Através do Design Instrucional identificamos suas necessidades e usamos o conhecimento e o know-how da sua empresa para criar novos resultados"
+content = "Pensar é uma forma de aprender, de investigar fatos. Quando pensamos para algum objetivo, conseguimos um aprendizado intencional e consistênte, resultando em crescimento pessoal e profissional."
 button_label = "Saiba Mais"
 button_link = "post/o-que-e-design-instrucional-ou-instructional-design/"
 
 # Advertise
 [advertisement]
-image = "images/promocao-livros.jpg"
-link = "https://www.amazon.com.br/Lefebvre-Saboya/e/B09QXVYBSH/"
+# image = "images/promocao-livros.jpg"
+# link = "https://www.amazon.com.br/Lefebvre-Saboya/e/B09QXVYBSH/"
 
 # cookies
 [cookies]
@@ -91,10 +91,10 @@ link = "https://www.facebook.com/d4t.dev"
 #icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
 #link = "https://twitter.com/llsaboya"
 
-#[[social]]
-#title = "instagram"
-#icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "https://www.instagram.com/llsaboya/"
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.instagram.com/llsaboya/"
 
 [[social]]
 title = "youtube"

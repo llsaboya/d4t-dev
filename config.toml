@@ -17,19 +17,19 @@ copyright = "2022 Lefebvre Saboya All rights reserved"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#035597"
+color_primary = "#00C2CC" #035597
 body_color = "#FFF"
-text_color = "#3c4041"
-text_dark = "#3c4041"
+text_color = "#000000"
+text_dark = "#000000"
 text_light = "#999"
-border_color = "#f0ece6"
-black = "#3c4041"
+border_color = "#DDEEEF" #f0ece6
+black = "#000000"
 white = "#FFF"
 light = "#f0ece6"
 
 # font variables
 # base font size for full website, 
-font_size = "16px" # default is 16px
+font_size = "15px" # default is 16px
 
 # Font Scale Sizes
 # "minorSecond": 1.067,
