@@ -225,4 +225,3 @@ Lembre-se do conselho daquele professor importante na sua vida: se tiver uma dú
 - [O que é Design Instrucional](https://d4t.dev/post/o-que-e-design-instrucional-ou-instructional-design/)
 
 Photo by <a href="https://unsplash.com/@thomas094?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Franke</a> on <a href="https://unsplash.com/s/photos/working?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
