@@ -22,6 +22,8 @@ keywords:
 toc: true
 ---
 
+{{< button "Experimente esse texto como um projeto DI aqui" "/portifolio/di-para-empreendedores/index.html" >}}
+
 **Design Instrucional** (Instructional Design) combina a _arte_ de criar experiências de aprendizagem envolventes com a _ciência_ de como o cérebro funciona. É a criação de projetos e materiais de aprendizagem para garantir de forma eficaz a aquisição e a aplicação de conhecimentos e habilidades. E não é uma _novidade_.
 
 A prática formal do _design instrucional_ surgiu da necessidade de treinar melhor os soldados após a Segunda Guerra Mundial: os militares precisavam uma forma de aprendizagem melhor para evitar que as pessoas explodissem os porta-aviões por “descuido”.
