@@ -42,7 +42,7 @@ A palavra-chave aqui é iterativo - feito de novo, repetido, reiterado - a base 
 
 O processo básico — chamado de SAM1 — é uma boa opção para projetos ou equipes menores. 
 
-![](SAM-1.png)
+![image](sam1.png)
 
 O SAM1 é um modelo simples com três iterações das etapas de design instrucional tradicional: análise, design e desenvolvimento. Usando essa abordagem, as ideias e suposições de todos podem ser discutidas, prototipadas e testadas já no início, aproximando-o de um produto utilizável mais rapidamente.
 
@@ -50,7 +50,7 @@ E se seu projeto for mais complexo? É aí que o SAM2 entra em jogo.
 
 ## **SAM2** – Versão estendida para projetos complexos
 
-![](SAM-2.png)
+![image](sam2.png)
 
 SAM2 é a versão estendida em SAM1. Consiste em oito etapas de design iterativo, espalhadas por três fases do projeto: Preparação, Design Iterativo e Desenvolvimento Iterativo.
 
