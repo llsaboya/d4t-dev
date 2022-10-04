@@ -80,7 +80,7 @@ Os modelos de design instrucional mais usados incluem:
 -   Modelo Dick e Carey
 -   Modelo de design de Kemp
 -   Princípios elementares de instrução de Merrill
--   SAM (Successive Approximation Model)
+-   [SAM (Successive Approximation Model)](https://d4t.dev/post/modelo-de-aproximacao-sucessiva-sam/)
 -   Agile ou prototipagem rápida
 
 Nenhum modelo é melhor ou superior a outro. São ferramentas e, como ferramentas, você deve usar a ferramenta certa para o trabalho. O Designer Instrucional sabe identificar o melhor modelo para cada situação para desenvolver e implementar o processo de aprendizagem. 
