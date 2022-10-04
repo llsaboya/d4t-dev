@@ -29,7 +29,7 @@ toc: true
 O Modelo de Aproximação Sucessiva (SAM) é uma versão simplificada do Modelo ADDIE, desenhado especificamente para obter feedback e construir modelos de trabalho desde o início do processo de design instrucional.
 
 Desenvolvido pelo Dr. Michael Allen, este modelo usa um processo recursivo[^1] em vez do linear para o desenvolvimento da experiência de aprendizagem. 
-[^1]:  que se pode repetir um número indefinido de vezes
+[^1]: Que se pode repetir um número indefinido de vezes
 
 O modelo SAM mais simples é composto de três partes: 
 - Preparação, 
@@ -42,7 +42,8 @@ A palavra-chave aqui é iterativo - feito de novo, repetido, reiterado - a base 
 
 O processo básico — chamado de SAM1 — é uma boa opção para projetos ou equipes menores. 
 
-![image](sam1.png)
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/sam1.png" alt="O SAM-1 é indicado para projetos e equipes menores" >}}
+
 
 O SAM1 é um modelo simples com três iterações das etapas de design instrucional tradicional: análise, design e desenvolvimento. Usando essa abordagem, as ideias e suposições de todos podem ser discutidas, prototipadas e testadas já no início, aproximando-o de um produto utilizável mais rapidamente.
 
@@ -50,7 +51,7 @@ E se seu projeto for mais complexo? É aí que o SAM2 entra em jogo.
 
 ## **SAM2** – Versão estendida para projetos complexos
 
-![image](sam2.png)
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/sam2.png" alt="O SAM-2 é baseado no framework ADDIE" >}}
 
 SAM2 é a versão estendida em SAM1. Consiste em oito etapas de design iterativo, espalhadas por três fases do projeto: Preparação, Design Iterativo e Desenvolvimento Iterativo.
 
