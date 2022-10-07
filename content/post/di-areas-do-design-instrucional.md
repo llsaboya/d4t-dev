@@ -29,36 +29,37 @@ date: 2022-09-23T19:24:28.661Z
 toc: true
 ---
 
-O mercado de Design Instrucional pode parecer confuso. Quando não é apenas **"o caos"**. Precisei até [criar um M-learning para explicar o conceito](https://d4t.dev/post/di-para-empreendedores-empresarios/) porque fica mais fácil esclarecer o assunto. 
+O mercado de Design Instrucional pode parecer confuso. Quando não é apenas **"o caos"**. Precisei até [criar um M-learning para explicar o conceito](https://d4t.dev/post/di-para-empreendedores-empresarios/) porque fica mais fácil esclarecer o assunto.
 
-Gestão de conhecimento não é prioridade nas empresas, principalmente naquelas possuem diversos funcionários fazendo mais ou menos a mesma coisa. Se um faltar, alguém repõe. Também é comum encontrar colecionadores de **mapeamento de processos**, coaches de **treinamento de alta performance** e gurus de **fórmulas mágicas de desempenho**. Difícil mesmo é algum deles mostrar análises de resultados detalhados de longo-prazo. 
+Gestão de conhecimento não é prioridade nas empresas, principalmente naquelas possuem diversos funcionários fazendo mais ou menos a mesma coisa. Se um faltar, alguém repõe. Também é comum encontrar colecionadores de **mapeamento de processos**, coaches de **treinamento de alta performance** e gurus de **fórmulas mágicas de desempenho**. Difícil mesmo é algum deles mostrar análises de resultados detalhados de longo-prazo.
 
 Contudo, toda empresa jura que prioriza o treinamento e desenvolvimento de suas equipes.
 
-De acordo com a [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/how-we-help-clients/growth-and-innovation), mesmo que 86% dos executivos concordem que a inovação é fundamental para a estratégia de crescimento, apenas 6% deles estão satisfeitos com os esforços inovadores na sua empresa. Em outras palavras, as empresas precisam de estratégias inovadoras, mas estão com dificuldades para criá-las e implementá-las. 
+De acordo com a [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/how-we-help-clients/growth-and-innovation), mesmo que 86% dos executivos concordem que a inovação é fundamental para a estratégia de crescimento, apenas 6% deles estão satisfeitos com os esforços inovadores na sua empresa. Em outras palavras, as empresas precisam de estratégias inovadoras, mas estão com dificuldades para criá-las e implementá-las.
 
-Você pode achar que o *designer instrucional* é a área responsável por criar cursos bonitos, modernos e engajantes para a sua empresa. Algumas empresas acreditam que o *designer instrucional* deve pegar todo o conteúdo já gerado lá dentro e transformar em conteúdos bonitos, modernos e engajantes. Aliás, você já viu as empresas fazendo a *gamificação* de todas as tarefas diárias porque a que [a conquista e a superação movem o ser humano](https://posdigital.pucpr.br/blog/gamificacao-engajamento)? 
+Você pode achar que o *designer instrucional* é a área responsável por criar cursos bonitos, modernos e engajantes para a sua empresa. Algumas empresas acreditam que o *designer instrucional* deve pegar todo o conteúdo já gerado lá dentro e transformar em conteúdos bonitos, modernos e engajantes. Aliás, você já viu as empresas fazendo a *gamificação* de todas as tarefas diárias porque a que [a conquista e a superação movem o ser humano](https://posdigital.pucpr.br/blog/gamificacao-engajamento)?
 
-O design instrucional é composto de cinco grandes áreas. Como na medicina e suas especializações, a maioria dos designers instrucionais se destacam em determinadas áreas, seja por decisão profissional ou exigências dos trabalhos. 
+O design instrucional é composto de cinco grandes áreas. Como na medicina e suas especializações, a maioria dos designers instrucionais se destacam em determinadas áreas, seja por decisão profissional ou exigências dos trabalhos.
 
 A maioria dos médicos sabem como tratar uma gripe, mas a partir desse ponto eles são bem diferentes uns dos outros.  
 
-Se você quer se certificar que sua empresa precisa de um **designer instrucional** (ou apenas descobrir se você precisa de um), você está no lugar certo.  
+Se você quer se certificar que sua empresa precisa de um **designer instrucional** (ou apenas descobrir se você precisa de um), você está no lugar certo.
+
 ## Empresas também se confundem 
 
 >Um consultor para valer a pena deve fazer julgamentos honestos, não necessariamente aqueles que ele acha que os clientes gostariam de ouvir. - Andrew Thomas 
 
-Se você e sua empresa querem implementar o design instrucional, precisamos compreender como ele funciona, as diferenças entre os designers e o que significa ser um designer júnior, pleno e sênior. 
+Se você e sua empresa querem implementar o design instrucional, precisamos compreender como ele funciona, as diferenças entre os designers e o que significa ser um designer júnior, pleno e sênior.
 
-Empresas aprendem investindo no desenvolvimento consistente de seus colaboradores - ou contratando uma **consultoria**. Se uma empresa não investe em **Gestão de Conhecimento** e desenvolvimento das pessoas, apenas contratar um DI (porque está na moda) não mudara sua situação. 
+Empresas aprendem investindo no desenvolvimento consistente de seus colaboradores - ou contratando uma **consultoria**. Se uma empresa não investe em **Gestão de Conhecimento** e desenvolvimento das pessoas, apenas contratar um DI (porque está na moda) não mudara sua situação.
 
-Consultores ruins possuem um conhecimento limitado do design instrucional, aplicando o termo como um coringa para novas contratações, confiando que a descrição da vaga e o mercado trarão o candidato ideal para a solução dos problemas. 
+Consultores ruins possuem um conhecimento limitado do design instrucional, aplicando o termo como um coringa para novas contratações, confiando que a descrição da vaga e o mercado trarão o candidato ideal para a solução dos problemas.
 
 Algumas empresas precisam urgentemente de esclarecimento[^1]. É possível achar dúzias de anúncios com a **descrição da vaga** exigindo design instrucional, mas que demonstram a confusão no planejamento desses negócios e na contratação que pretendem fazer.
 
-[^1]: Na pior das hipóteses, param de passar vergonha anunciando [vagas absurdas no LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3285674174&keywords=design%20instrucional). 
+[^1]: Na pior das hipóteses, param de passar vergonha anunciando [vagas absurdas no LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3285674174&keywords=design%20instrucional).
 
-Ainda que certas descrições de vaga se sobreponham com a área de atuação design instrucional, em alguns casos é claro a tentativa de *"forçar a barra"* nessas contratações: 
+Ainda que certas descrições de vaga se sobreponham com a área de atuação design instrucional, em alguns casos é claro a tentativa de *"forçar a barra"* nessas contratações:
 
 - Arquiteto de aprendizagem 
 - Analista de treinamento 
@@ -101,7 +102,8 @@ Ainda que certas descrições de vaga se sobreponham com a área de atuação de
 - Gerente de projetos em treinamentos 
 - Líder de aprendizagem 
 - Líder de design instrucional 
-- Mestre em treinamento e desenvolvimento (que na verdade é "assistente") 
+- Mestre em treinamento e desenvolvimento (que na verdade é "assistente")
+
 ## Quais são 5 áreas do design instrucional 
 
 O design instrucional é composto de cinco grandes áreas.  
@@ -123,21 +125,22 @@ Por que o design instrucional confunde tanto?  
 Porque não importa a sua área de especialização (ou diversas delas), chamam todos de *designer instrucionais*. Todas as áreas são importantes no aprendizado. Todos os designers são importantes quando o foco é o aluno. 
 ### Como os adultos aprendem 
 
-Andragogia[^2]refere-se a métodos e princípios usados na educação de adultos. A palavra vem do grego *ἀνδρ*- (andr-), que significa "homem", e *ἀγωγός* (agogos), que significa "líder de". Portanto, andragogia significa literalmente "liderando homens", enquanto "pedagogia" significa literalmente "liderando crianças". 
+Andragogia[^2]refere-se a métodos e princípios usados na educação de adultos. A palavra vem do grego *ἀνδρ*- (andr-), que significa "homem", e *ἀγωγός* (agogos), que significa "líder de". Portanto, andragogia significa literalmente "liderando homens", enquanto "pedagogia" significa literalmente "liderando crianças".
 
-[^2]: Andragogia é simplesmente uma palavra feia. Embora necessária do ponto de vista teórico, na prática, quando falamos de desenvolvimento de adultos preferimos trocá-la por termos como "experiência de aprendizagem", "modelos de aprendizagem" e derivados porque é simplesmente mais bonito e moderno.  
+[^2]: Andragogia é simplesmente uma palavra feia. Embora necessária do ponto de vista teórico, na prática, quando falamos de desenvolvimento de adultos preferimos trocá-la por termos como "experiência de aprendizagem", "modelos de aprendizagem" e derivados porque é simplesmente mais bonito e moderno.
 
 Entretanto, crianças e adultos aprendem praticamente da mesma forma (pensando sobre) e pelos mesmos motivos (por curiosidade ou por obrigação). 
 
-Sabemos que várias técnicas e modelos para ensinar melhor adultos. Algumas demonstraram ser ferramentas úteis. Outras tantas são pura jogada de marketing e pura mágica, ainda que os adultos acreditem piamente que elas são verdadeiras (dica, elas não são, pesquisas sérias já comprovaram a falta de evidências de resultados). 
+Sabemos que várias técnicas e modelos para ensinar melhor adultos. Algumas demonstraram ser ferramentas úteis. Outras tantas são pura jogada de marketing e pura mágica, ainda que os adultos acreditem piamente que elas são verdadeiras (dica, elas não são, pesquisas sérias já comprovaram a falta de evidências de resultados).
 
 Por causa disso os **designers instrucionais** precisam conhecer muito bem a **andragogia**. Sua empresa quer **gamificar** todos os treinamentos por que é a palavra da hora? Essa abordagem vai gerar resultados positivos reais ou é apenas um *modismo* que pode prejudicar o desempenho da sua equipe? Um *mapeamento de ações* (ou seja, pesquisar os processos dinâmicos em que uma pessoa faz algo) pode indicar uma solução mais eficaz, barata e imediata? 
 
-Não existe uma resposta única e definitiva pra a pergunta "como os adultos aprendem?" além do verbo "depender".  
+Não existe uma resposta única e definitiva pra a pergunta "como os adultos aprendem?" além do verbo "depender".
 
-Como os adultos aprendem?  
+Como os adultos aprendem?
 
-Depende dos adultos e do que precisa ser apreendido. 
+Depende dos adultos e do que precisa ser apreendido.
+
 ### Gerenciamentos de Projetos 
 
 Eu vejo as coisas dessa forma: se você terminou bem o segundo grau já teria direito a uma certificação do Project Management Institute®, porque você precisou gerenciar projetos de língua portuguesa, matemática, história, geografia, educação artística, educação física por mais de uma década. 
@@ -162,8 +165,8 @@ Você pode conhecer mais sobre esse relacionamento nesse vídeo: 
 
 {{< youtube id="H48CgPmPphY" title="Quem são os especialistas no assunto?" >}}
 
-
 O especialista pode entender tudo sobre a sua área, mas é o designer instrucional o especialista em aprendizagem. O designer instrucional cria e desenvolve experiências focadas no aluno, em estreita colaboração com os SMEs, para as pessoas apreenderem as informações necessárias para seu desenvolvimento. 
+
 ### Pesquisa e Análise 
 
 Transformar dados em informação acionável é vital para o sucesso dos projetos de design instrucional. Pesquisa e análise são essenciais para esclarecer. 
