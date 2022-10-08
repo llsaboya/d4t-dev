@@ -6487,7 +6487,7 @@ textarea.form-control-lg {
 
 /*  typography */
 html {
-  font-size: 15px; }
+  font-size: 16px; }
 
 body {
   font-family: "Raleway", sans-serif;
@@ -6519,82 +6519,82 @@ small,
 
 h6,
 .h6 {
-  font-size: 18.75px;
+  font-size: 20px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h6,
     .h6 {
-      font-size: calc( 18.75px * .85); } }
+      font-size: calc( 20px * .85); } }
   @media (max-width: 575px) {
     h6,
     .h6 {
-      font-size: calc( 18.75px * .65); } }
+      font-size: calc( 20px * .65); } }
 h5,
 .h5 {
-  font-size: 23.4375px;
+  font-size: 25px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h5,
     .h5 {
-      font-size: calc( 23.4375px * .85); } }
+      font-size: calc( 25px * .85); } }
   @media (max-width: 575px) {
     h5,
     .h5 {
-      font-size: calc( 23.4375px * .65); } }
+      font-size: calc( 25px * .65); } }
 h4,
 .h4 {
-  font-size: 29.296875px;
+  font-size: 31.25px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h4,
     .h4 {
-      font-size: calc( 29.296875px * .85); } }
+      font-size: calc( 31.25px * .85); } }
   @media (max-width: 575px) {
     h4,
     .h4 {
-      font-size: calc( 29.296875px * .65); } }
+      font-size: calc( 31.25px * .65); } }
 h3,
 .h3 {
-  font-size: 36.62109375px;
+  font-size: 39.0625px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h3,
     .h3 {
-      font-size: calc( 36.62109375px * .85); } }
+      font-size: calc( 39.0625px * .85); } }
   @media (max-width: 575px) {
     h3,
     .h3 {
-      font-size: calc( 36.62109375px * .65); } }
+      font-size: calc( 39.0625px * .65); } }
 h2,
 .h2 {
-  font-size: 45.77636719px;
+  font-size: 48.828125px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h2,
     .h2 {
-      font-size: calc( 45.77636719px * .85); } }
+      font-size: calc( 48.828125px * .85); } }
   @media (max-width: 575px) {
     h2,
     .h2 {
-      font-size: calc( 45.77636719px * .65); } }
+      font-size: calc( 48.828125px * .65); } }
 h1,
 .h1 {
-  font-size: 57.22045898px;
+  font-size: 61.03515625px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h1,
     .h1 {
-      font-size: calc( 57.22045898px * .85); } }
+      font-size: calc( 61.03515625px * .85); } }
   @media (max-width: 575px) {
     h1,
     .h1 {
-      font-size: calc( 57.22045898px * .65); } }
+      font-size: calc( 61.03515625px * .65); } }
 /* Button style */
 .btn {
   font-size: 1rem;
