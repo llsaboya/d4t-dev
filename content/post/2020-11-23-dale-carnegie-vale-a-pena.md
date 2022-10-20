@@ -24,8 +24,10 @@ keywords:
   - Auto-ajuda
   - Warren Buffett
 date: 2021-11-24T12:19:25.000Z
-lastmod: 2022-10-10T17:27:40.547Z
+lastmod: 2022-10-20T13:40:04.957Z
 ---
+
+{{< youtube MLC_m4WJogs >}}
 
 Se você não sabe quem foi Dale Carnegie, provavelmente já ouviu falar do livro "Como fazer amigos e influenciar pessoas". Publicado em 1936, é a obra de referência em desenvolvimento pessoal (e autoajuda) no século XX.
 
